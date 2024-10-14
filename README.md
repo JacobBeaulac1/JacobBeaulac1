@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - My name is Jacob Beaulac
-- I attend Northeastern University
+- I attend Northeastern University and Im majoring In cybersecurity
+- I expect to graduate in May 2024
 
